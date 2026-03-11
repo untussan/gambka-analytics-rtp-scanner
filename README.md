@@ -1,0 +1,1 @@
+# gambka-analytics-rtp-scanner
